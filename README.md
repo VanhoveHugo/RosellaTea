@@ -1,3 +1,7 @@
-# My first website
+# Rosella Tea Website
 
-> For this project, i use HTML / CSS & fontawesome
+## Languages
+
+> HTML
+> CSS
+> FontAwesome
